@@ -61,4 +61,4 @@ ${itemtring}
 **********************`);
 }
 console.log(printReceipt());
->>>>>>> 03e7ba2cf438f388b0f2930445f268f8b77e05e2
+
